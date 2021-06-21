@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Linarz 👋
+- 🌱 I’m currently learning Python.
 
 <!--
 **linarz/Linarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Linarz&show_icons=true&include_all_commits=true)](https://github.com/Linarz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linarz&layout=compact)](https://github.com/Linarz/github-readme-stats)
+<!--
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Linarz&repo=Linarz)
 -->
